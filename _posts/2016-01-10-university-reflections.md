@@ -34,15 +34,13 @@ After completing these core classes, students gain much more flexibility. To see
 
 ### Poor Requirements
 
-Sadly, Michigan required me to take 26 credits that I did not need:
+Michigan required me to take 26 credits that I did not need:
 
 1. Physics (10 credits) - *Very* few Computer Science students need physics.
 2. Calculus (8 credits) - Computer Science students need Linear Algebra and Statistics, not Calculus.
 3. Introductory Programming (8 credits) - I had a good grasp of programming fundamentals when I started college. Michigan should allow to students to test out of the intro programming classes (EECS 101 and EECS 280) and start with Data Structures & Algorithms (EECS 281).
 
-To put that in perspective, 26 credits is about 30% of all the credits I received. That's about $50,000 in tuition. And here's the kicker: I avoided many more pointless requirements with Advance Placement credits I had received in high school. Without these credits I would've had to take Chemistry and even more Calculus. Those classes would've forced me to take an extra semester.
-
-> I wasted about $50,000 in tuition
+To put that in perspective, 26 credits is about 30% of all the credits I received. That's about $50,000 in tuition. And here's the kicker: I avoided many more pointless requirements with Advance Placement credits I had received in high school. Without these credits I would've had to take Chemistry and even more Calculus.
 
 ## Michigan Sponsored Events
 
@@ -62,4 +60,4 @@ MHacks is an enormous hackathon that is organized by University of Michigan stud
 
 ## So was it worth it?
 
-To be honest, I don't know! But at least thanks to Michigan I got myself a fancy degree and a job at Microsoft.
+To be honest, I don't know! But at least thanks to Michigan I got myself a fancy degree and a job.
